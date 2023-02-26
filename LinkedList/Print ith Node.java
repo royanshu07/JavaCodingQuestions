@@ -1,4 +1,4 @@
-For a given a singly linked list of integers and a position 'i', print the node data at the 'i-th' position.
+//For a given a singly linked list of integers and a position 'i', print the node data at the 'i-th' position.
 
 public class Solution {
 
