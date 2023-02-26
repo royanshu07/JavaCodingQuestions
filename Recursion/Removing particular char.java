@@ -1,4 +1,4 @@
-Given a string, compute recursively a new string where all 'x' chars have been removed.
+//Given a string, compute recursively a new string where all 'x' chars have been removed.
 
 
 public class solution {
