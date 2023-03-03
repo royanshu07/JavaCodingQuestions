@@ -115,3 +115,7 @@ public class Solution {
 		
       
 	}}
+
+
+//Approach 3
+Check limit
